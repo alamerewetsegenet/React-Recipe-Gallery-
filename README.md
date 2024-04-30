@@ -1,3 +1,25 @@
+# Recipe Gallery
+This is a simple React application that displays a gallery of recipes.
+
+npx create-react-app recipe-gallery//initalize a new react application using creat react app
+
+cd recipe-gallery
+npm install
+npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
